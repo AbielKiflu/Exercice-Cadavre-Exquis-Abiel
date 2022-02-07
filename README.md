@@ -12,3 +12,10 @@ But now we arent sure if it work
 after he start a stream the mic start to bug again 
 
 we will see if it juste the stream. we hope it is
+
+Yes it was a little difficult for the communication
+
+...
+
+I don't know what to add
+
